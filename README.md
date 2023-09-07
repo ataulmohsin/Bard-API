@@ -43,6 +43,12 @@ I referred to this github repository([github.com/acheong08/Bard](https://github.
 
 <br>
 
+## Sponsor
+
+![](./assets/sponsor-ad-1.png)
+
+Unlock limitless opportunities with Crawlbase: Your one-stop solution for Web Scraping, Real-time Monitoring, Analytics, Cyber Security, Leads API, and Proxies. Empowering developers and businesses to harness the full potential of internet data. Visit [Crawlbase.com](https://crawlbase.com/signup) today. 
+
 ## What is Google Bard?
 Bard is a conversational generative artificial intelligence chatbot developed by Google, based initially on the LaMDA family of LLMs(Large Language Models) and later the PaLM LLM. Please check official documents for [updates](https://bard.google.com/updates) on Bard, including [available regions and languages](https://support.google.com/bard/answer/13575153?hl=en).
 
@@ -146,6 +152,12 @@ proxies = {
 bard = Bard(token='xxxxxxx', proxies=proxies, timeout=30)
 bard.get_answer("나와 내 동년배들이 좋아하는 뉴진스에 대해서 알려줘")['content']
 ```
+
+### Smart Proxy by Crawlbase
+
+![](./assets/sponsor-ad-2.png)
+
+For applications that are not natively compatible with HTTP/S-based APIs, such as our Crawling API, we provide an advanced rotating proxy service. This service seamlessly forwards your requests to the Crawling API, thereby operating as a conventional proxy within your existing infrastructure. For a comprehensive understanding of this feature, we invite you to explore our [technical documentation](https://crawlbase.com/docs/smart-proxy/).
 
 ### Reusable session object
 You can continue the conversation using a reusable session.
