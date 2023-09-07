@@ -45,7 +45,7 @@ I referred to this github repository([github.com/acheong08/Bard](https://github.
 
 ## Sponsor
 
-![](./assets/sponsor-ad-1.png)
+<a href="https://crawlbase.com/signup"><img src="./assets/sponsor-ad-1.png"/></a>
 
 Unlock limitless opportunities with Crawlbase: Your one-stop solution for Web Scraping, Real-time Monitoring, Analytics, Cyber Security, Leads API, and Proxies. Empowering developers and businesses to harness the full potential of internet data. Visit [Crawlbase.com](https://crawlbase.com/signup) today. 
 
@@ -155,7 +155,7 @@ bard.get_answer("나와 내 동년배들이 좋아하는 뉴진스에 대해서 
 
 ### Smart Proxy by Crawlbase
 
-![](./assets/sponsor-ad-2.png)
+<a href="https://crawlbase.com/signup"><img src="./assets/sponsor-ad-2.png"/></a>
 
 For applications that are not natively compatible with HTTP/S-based APIs, such as our Crawling API, we provide an advanced rotating proxy service. This service seamlessly forwards your requests to the Crawling API, thereby operating as a conventional proxy within your existing infrastructure. For a comprehensive understanding of this feature, we invite you to explore our [technical documentation](https://crawlbase.com/docs/smart-proxy/).
 
